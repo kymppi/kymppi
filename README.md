@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning ReactJs and Java 🤣
 - 🥅 2020 Goals: Just want to finish Datacord's Survival
-- ⚡ Fun fact: I good at math.
-- ✨ Developver at @DatacordOfficial
+- ⚡ Fun fact: I am good at math.
+- ✨ Developer at @DatacordOfficial
 
 ### Connect with me:
 
