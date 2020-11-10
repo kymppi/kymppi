@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Midka7?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMidka7&screen_name=Midka7)
 
 - 🌱 I’m currently learning ReactJs and Java 🤣
-- 🥅 2020 Goals: Just want to finish Datacord's Survival
+- 🥅 2020 Goals: Publish my budjetgenix app.
 - ⚡ Fun fact: I am good at math.
 - ✨ Developer at @DatacordOfficial
 
