@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevMidka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMidka7&screen_name=DevMidka)
 
-- 🌱 I’m currently learning ReactJs and Java 🤣
-- 🥅 2020 Goals: Publish my budjetgenix app.
+- 🌱 I’m currently learning ReactJs
+- 🥅 2021 Goals: Publish my own Discord bot with Dashboard.
 - ⚡ Fun fact: I am good at math.
-- ✨ Developer at @DatacordOfficial
+- ✨ Developer at @MidkaDev
 
 ### Connect with me:
 
