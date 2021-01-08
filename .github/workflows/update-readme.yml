@@ -1,17 +1,28 @@
-name: GitHub - Activity - Readme
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  schedule:
-    - cron: "* */30 * * *"
-  workflow_dispatch:
-
+  # Schedule updates
+  schedule: [{cron: "0 * * * *"}]
+  push: {branches: "master"}
 jobs:
-  build:
+  github-metrics:
     runs-on: ubuntu-latest
-    name: "Recent Activity"
-
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
+        with:
+          # You'll need to setup a personal token in your secrets.
+          token: ${{ secrets.METRICS_TOKEN }}
+          # GITHUB_TOKEN is a special auto-generated token used for commits
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+
+          # Options
+          user: kymppi
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Helsinki
+          plugin_languages: yes
+          plugin_projects: yes
+          plugin_projects_limit: 4
+          plugin_projects_repositories: midka-dev-tools
+          plugin_tweets: yes
+          plugin_tweets_limit: 2
