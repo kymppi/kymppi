@@ -33,8 +33,8 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/kymppi?template=terminal&languages=1&projects=1&tweets=1&projects.limit=4&projects.repositories=midka-dev-tools&tweets.limit=2&config.timezone=Europe%2FHelsinki)
+![Metrics](https://github.com/kymppi/kymppi/blob/master/github-metrics.svg)
 
-[twitter]: https://twitter.com/Midka7
+[twitter]: https://twitter.com/DevMidka
 [youtube]: https://www.youtube.com/channel/UC3_3_Mk4PuRhczYHqOx8P3w?view_as=subscriber
 [instagram]: https://instagram.com/midka31
