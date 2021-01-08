@@ -33,21 +33,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Midka's Github Stats" src="https://github-readme-stats.kymppi.vercel.app/api?username=kymppi&show_icons=true&hide_border=true" />
-
-</details>
+![Metrics](https://metrics.lecoq.io/kymppi?template=terminal&languages=1&projects=1&tweets=1&projects.limit=4&projects.repositories=midka-dev-tools&tweets.limit=2&config.timezone=Europe%2FHelsinki)
 
 [twitter]: https://twitter.com/Midka7
 [youtube]: https://www.youtube.com/channel/UC3_3_Mk4PuRhczYHqOx8P3w?view_as=subscriber
