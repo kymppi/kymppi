@@ -2,16 +2,16 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevMidka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMidka7&screen_name=DevMidka)
 
-- 🌱 I’m currently learning NextJs
-- 🥅 2021 Goals: Finally complete BudjetGenix.
+- 🌱 I’m currently learning NestJs with Microservices
+- 🥅 2021 Goals: Release first beta version of [Ritta](https://ritta.fi/)
 - ⚡ Fun fact: I am good at math.
-- ✨ Developer at @BudjetGenix
+- ✨ Developer at @rittaschool
 
 ### Connect with me:
 
 [<img align="left" alt="Midka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Midka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="midka31 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="midkaoliotettu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -37,4 +37,4 @@
 
 [twitter]: https://twitter.com/DevMidka
 [youtube]: https://www.youtube.com/channel/UC3_3_Mk4PuRhczYHqOx8P3w?view_as=subscriber
-[instagram]: https://instagram.com/midka31
+[instagram]: https://instagram.com/midkaoliotettu
