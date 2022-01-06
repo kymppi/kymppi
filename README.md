@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/DevMidka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMidka7&screen_name=DevMidka)
 
 - 🌱 I’m currently learning NestJs with Microservices
-- 🥅 2021 Goals: Release first beta version of [Ritta](https://ritta.fi/)
+- 🥅 2022 Goals: Release first beta version of [Ritta](https://ritta.fi/)
 - ⚡ Fun fact: I am good at math.
 - ✨ Developer at @rittaschool
 
