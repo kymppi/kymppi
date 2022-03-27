@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1236 Commits
+                            1239 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="229.07895943508697" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="229.07895943508697" y="0" width="95.35029760994973" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="324.4292570450367" y="0" width="75.60969645095223" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="400.03895349598895" y="0" width="26.759392290526705" height="8" fill="#dea584"/>
-                    <rect mask="url(#languages-bar)" x="426.79834578651565" y="0" width="17.317973195453096" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.11631898196873" y="0" width="6.520605613321047" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="450.63692459528977" y="0" width="4.762894611578621" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="455.39981920686836" y="0" width="4.600180793131607" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="230.80857991420083" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="230.80857991420083" y="0" width="92.5970740292597" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="323.40565394346055" y="0" width="76.18057419425806" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="399.58622813771865" y="0" width="26.961434385656144" height="8" fill="#dea584"/>
+                    <rect mask="url(#languages-bar)" x="426.54766252337475" y="0" width="17.448729512704872" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="443.99639203607967" y="0" width="6.569838301616984" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="450.56623033769665" y="0" width="4.798856011439886" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="455.3650863491365" y="0" width="4.634913650863491" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1473,10 +1473,10 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">RITS-55-vaihto-turborepoon</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6306c67</div>
-                                        <div class="message">Update THANKS.md</div>
+                                        <div class="sha">#006aeaa</div>
+                                        <div class="message">init turbo</div>
                                     </div>
                                 </div>
                             </section>
@@ -1485,18 +1485,14 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
+                                        Created new
+                      branch
+                                        <span class="code">RITS-55-vaihto-turborepoon</span>
+                                        in
                                         <span class="repo">rittaschool/ritta-server</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#452612f</div>
-                                        <div class="message">Create THANKS.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1515,8 +1511,28 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#27116b3</div>
-                                        <div class="message">new style</div>
+                                        <div class="sha">#a4380d1</div>
+                                        <div class="message">latest</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">kymppi/dotfiles</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#75f0d37</div>
+                                        <div class="message">Create README.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -1535,24 +1551,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0e09f96</div>
-                                        <div class="message">start script improvements by luukasa</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Deleted
-                      branch
-                                        <span class="code">RITS-53-siirra-kaikki-scriptit-scripts-kansioon</span>
-                                        in
-                                        <span class="repo">rittaschool/ritta-server</span>
+                                        <div class="sha">#3e35abe</div>
+                                        <div class="message">fix development commands</div>
                                     </div>
                                 </div>
                             </section>
@@ -1575,7 +1575,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Mar 2022, 19:18:38 (timezone Europe/Helsinki) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 27 Mar 2022, 20:13:42 (timezone Europe/Helsinki) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
