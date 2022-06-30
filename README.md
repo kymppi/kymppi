@@ -12,8 +12,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Midka | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Midka | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+![Youtube | Midka](https://img.shields.io/youtube/channel/subscribers/UC3_3_Mk4PuRhczYHqOx8P3w?style=for-the-badge)
+[![Twitter Follow](https://img.shields.io/twitter/follow/DevMidka?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkymppi7&screen_name=DevMidka)
+<br>
 [<img align="left" alt="midkaoliotettu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
