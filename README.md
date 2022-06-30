@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning:
   - 🦀 Rust
-  - ![kotlin](https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/kotlin.svg) Kotlin
+  - Kotlin
   - Microservice Architecture
 - 🥅 2022 Goals: Release first beta version of [Ritta](https://ritta.fi/)
 - ⚡ Fun fact: I am good at math.
