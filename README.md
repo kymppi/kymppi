@@ -16,9 +16,9 @@ Matrix: [@midka:pikaviestin.fi]
 
 - [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoint website
 - [midka.dev](https://midka.dev) - My personal website
-- Student Attendance System for a friend
-- Roleplaying Flying Control Center System for a friend
+- [Student Attendance System](https://github.com/kymppi/student-attendance) for a friend
 - [BadWithMoney](https://github.com/kymppi/BadWithMoney) - A simple budgeting app
+- Roleplaying Flying Control Center System for a friend
 
 ### Currently learning
 
@@ -52,7 +52,7 @@ Matrix: [@midka:pikaviestin.fi]
   <img src="https://github-readme-testaustime.vercel.app/api/testaustime?username=midka&layout=compact&range=7&langs_count=10&bg_color=001219&text_color=94d2bd&icon_color=0a9396&title_color=ee9b00" />
 </a>
 
-> Analytics provided by [Testaustime](https://testaustime.fi)
+> Analytics provided by [Testaustime](https://testaustime.fi), and may be very inaccurate.
 
 [midka.dev]: https://midka.dev
 [status.midka.dev]: https://status.midka.dev
