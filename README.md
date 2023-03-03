@@ -10,6 +10,8 @@ Email: [me@midka.dev]
 
 Matrix: [@midka:pikaviestin.fi]
 
+Mastodon: [@midka@mastodon.testausserveri.fi]
+
 ---
 
 ### Currently working on
@@ -58,3 +60,4 @@ Matrix: [@midka:pikaviestin.fi]
 [status.midka.dev]: https://status.midka.dev
 [me@midka.dev]: mailto:me@midka.dev
 [@midka:pikaviestin.fi]: https://matrix.to/#/@midka:pikaviestin.fi
+[@midka@mastodon.testausserveri.fi]: https://mastodon.testausserveri.fi/@midka
