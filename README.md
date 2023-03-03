@@ -61,6 +61,7 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 [![Midkaa's last.fm](https://lastfm-recently-played.vercel.app/api?user=midkaa)](https://www.last.fm/user/midkaa)
 
 ![](https://komarev.com/ghpvc/?username=kymppi&style=flat-square&color=orange)
+![](https://hit.yhype.me/github/profile?user_id=48528700)
 
 [midka.dev]: https://midka.dev
 [status.midka.dev]: https://status.midka.dev
