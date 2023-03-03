@@ -56,7 +56,11 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 
 > Analytics provided by [Testaustime](https://testaustime.fi) may be very inaccurate.
 
+<br />
+
 [![Midkaa's last.fm](https://lastfm-recently-played.vercel.app/api?user=midkaa)](https://www.last.fm/user/midkaa)
+
+![](https://komarev.com/ghpvc/?username=kymppi&style=flat-square&color=orange)
 
 [midka.dev]: https://midka.dev
 [status.midka.dev]: https://status.midka.dev
