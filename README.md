@@ -18,9 +18,7 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 
 - [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoint website
 - [midka.dev](https://midka.dev) - My personal website
-- [Student Attendance System](https://github.com/kymppi/student-attendance) for a friend
 - [BadWithMoney](https://github.com/kymppi/BadWithMoney) - A simple budgeting app
-- Roleplaying Flying Control Center System for a friend
 
 ### Currently learning
 
