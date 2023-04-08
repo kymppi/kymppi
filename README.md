@@ -18,12 +18,12 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 
 - [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoint website
 - [midka.dev](https://midka.dev) - My personal website
-- [BadWithMoney](https://github.com/kymppi/BadWithMoney) - A simple budgeting app
 
 ### Currently learning
 
 - [Astro](https://astro.build)
 - [Rust](https://www.rust-lang.org)
+- [Go](https://go.dev)
 - Visual Design
 
 ---
