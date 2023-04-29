@@ -8,7 +8,7 @@ I'm currently a young student from Helsinki, Finland. I like to design with [Pen
 
 Email: [me@midka.dev]
 
-Matrix: [@midka:pikaviestin.fi]
+Matrix: [@midka:beeper.com]
 
 Mastodon: [@midka@mastodon.testausserveri.fi]
 
@@ -64,5 +64,5 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 [midka.dev]: https://midka.dev
 [status.midka.dev]: https://status.midka.dev
 [me@midka.dev]: mailto:me@midka.dev
-[@midka:pikaviestin.fi]: https://matrix.to/#/@midka:pikaviestin.fi
+[@midka:beeper.com]: https://matrix.to/#/@midka:beeper.com
 [@midka@mastodon.testausserveri.fi]: https://mastodon.testausserveri.fi/@midka
