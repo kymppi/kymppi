@@ -10,7 +10,7 @@ Email: [me@midka.dev]
 
 Matrix: [@midka:beeper.com]
 
-Mastodon: [@midka@mastodon.testausserveri.fi]
+Mastodon: [@midka@mementomori.social]
 
 ---
 
@@ -65,4 +65,4 @@ Mastodon: [@midka@mastodon.testausserveri.fi]
 [status.midka.dev]: https://status.midka.dev
 [me@midka.dev]: mailto:me@midka.dev
 [@midka:beeper.com]: https://matrix.to/#/@midka:beeper.com
-[@midka@mastodon.testausserveri.fi]: https://mastodon.testausserveri.fi/@midka
+[@midka@mementomori.social]: https://mementomori.social/@midka
