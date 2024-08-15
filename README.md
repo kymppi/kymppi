@@ -16,35 +16,35 @@ Mastodon: [@midka@mementomori.social]
 
 ### Currently working on
 
-- [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoint website
-- [midka.dev](https://midka.dev) - My personal website
+- [minehub.live](https://minehub.live) - The Minigame Network backend with Go
+- [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoints (part of Management)
 
-### Currently learning
+### Currently using these technologies:
 
-- [Astro](https://astro.build)
-- [Rust](https://www.rust-lang.org)
 - [Go](https://go.dev)
-- Visual Design
+- [Protocol Buffers](https://protobuf.dev/)
+- [RabbitMQ](https://www.rabbitmq.com/)
+- [GraphQL](https://graphql.org/)
+
+- [Nuxt.Js](https://nuxt.com/)
+- [SCSS](https://sass-lang.com/)
 
 ---
 
 ### Websites
 
 - [midka.dev](https://midka.dev) - My personal website
-- [beta.d2checkpoint.com](https://beta.d2checkpoint.com) - Currently a new beta site for [d2checkpoint.com](https://d2checkpoint.com)
 
 ### Open source projects I have contributed to
 
 - [Formbricks](https://github.com/formbricks/formbricks)
-- [Penpot](https://penpot.app) - Translating it to Finnish (only few % done)
-- [Novu](https://novu.co)
 - probably more but I just can't remember
 - More to come...
 
 ### Self hosted services
 
-- [Analytics](https://plausible.midka.dev) - Plausible Analytics
-- [Forms](https://formbricks.midka.dev) - Formbricks
+- [MinIO](https://min.io) - S3
+- [Ente](https://ente.io) - An open-source Google Photos alternative
 
 ---
 
