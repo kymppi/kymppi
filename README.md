@@ -25,6 +25,8 @@ Mastodon: [@midka@mementomori.social]
 - [Protocol Buffers](https://protobuf.dev/)
 - [RabbitMQ](https://www.rabbitmq.com/)
 - [GraphQL](https://graphql.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+  
 
 - [Nuxt.Js](https://nuxt.com/)
 - [SCSS](https://sass-lang.com/)
