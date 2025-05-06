@@ -1,52 +1,29 @@
-## Hey! I'm Midka
+## Welcome!
 
-I'm currently a young student from Helsinki, Finland. I like to design with [Penpot](https://penpot.app) and photograph cool things. (Gallery coming someday :p) Most of the time I do web development but sometimes backend development and IoT stuff.
+I'm Midka, here on github known as `kymppi`.
 
----
+Recently I've been learning a lot more about cybersecurity and specifically about things related to authentication. For example I built my own authentication server [Kuura](https://github.com/kymppi/kuura) with a Secure Remote Password (SRP) implementation. Participated in the ECSC 2025 Qualifiers for Finland's team.
+
+Right now my biggest focus is on [Minehub](https://minehub.live). It's a minecraft minigame network that has a backend written in golang instead of only using java. The benefits of using an external backend is the flexibility it provides. For example start/stop servers from an admin panel and database usage and migrations are handled centrally instead of in the gameservers. It's easily my biggest project ever.
+
+Looking to build a new homeserver soon so I can reduce my dependencies on cloud services even more. Slowly moving over to more encrypted and decentralized social media. Going to migrate from Github at some point (for different reasons).
+
+<br>
+<br>
+<br>
+Do I use AI for programming? No. There are many great use cases for AI, like researching medicine and other scientific things. Programming, writing and artwork are not part of them.
 
 ### Contact
 
-Email: [me@midka.dev]
+If you have any questions, things you want to share, cute animal photos 👀 or anything else, you can reach me in these places!
 
-Matrix: [@midka:beeper.com]
+- Email: [me@midka.dev]
 
-Mastodon: [@midka@mementomori.social]
+- Matrix: [@midka:beeper.com]
 
----
+- Mastodon: [@midka@mementomori.social]
 
-### Currently working on
-
-- [minehub.live](https://minehub.live) - The Minigame Network backend with Go
-- [d2checkpoint.com](https://d2checkpoint.com) - Destiny 2 Checkpoints (part of Management)
-
-### Currently using these technologies:
-
-- [Go](https://go.dev)
-- [Protocol Buffers](https://protobuf.dev/)
-- [RabbitMQ](https://www.rabbitmq.com/)
-- [GraphQL](https://graphql.org/)
-- [PostgreSQL](https://www.postgresql.org/)
-  
-
-- [Nuxt.Js](https://nuxt.com/)
-- [SCSS](https://sass-lang.com/)
-
----
-
-### Websites
-
-- [midka.dev](https://midka.dev) - My personal website
-
-### Open source projects I have contributed to
-
-- [Formbricks](https://github.com/formbricks/formbricks)
-- probably more but I just can't remember
-- More to come...
-
-### Self hosted services
-
-- [MinIO](https://min.io) - S3
-- [Ente](https://ente.io) - An open-source Google Photos alternative
+- Bluesky: [@midka.dev]
 
 ---
 
@@ -63,8 +40,7 @@ Mastodon: [@midka@mementomori.social]
 ![](https://komarev.com/ghpvc/?username=kymppi&style=flat-square&color=orange)
 ![](https://hit.yhype.me/github/profile?user_id=48528700)
 
-[midka.dev]: https://midka.dev
-[status.midka.dev]: https://status.midka.dev
 [me@midka.dev]: mailto:me@midka.dev
 [@midka:beeper.com]: https://matrix.to/#/@midka:beeper.com
 [@midka@mementomori.social]: https://mementomori.social/@midka
+[@midka.dev]: https://bsky.app/profile/midka.dev
