@@ -11,7 +11,7 @@ Looking to build a new homeserver soon so I can reduce my dependencies on cloud 
 <br>
 <br>
 <br>
-Do I use AI for programming? No. There are many great use cases for AI, like researching medicine and other scientific things. Programming, writing and artwork are not part of them.
+Do I use Generative AI for programming? No. I don't think Generative AI should be used for anything at least yet. AI itself has a lot of great use cases, like researching medicine and other scientific things. Programming, writing and artwork are not part of them.
 
 ### Contact
 
